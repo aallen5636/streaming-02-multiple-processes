@@ -23,7 +23,7 @@ Executing multiple_processes.py script.
 
 Read the output. Read the code. 
 Try to figure out what's going on. 
-
+#Ashley Allen
 1. What libraries did we import? #sqlite3, time, multiprocessing, os, datetime, platform, and sys
 1. Where do we set the task_duration?
 1. How many functions are defined? #7
@@ -31,7 +31,7 @@ Try to figure out what's going on.
 1. In general, what does each function do? 
 1. Where does the execution begin? #The execution begins on 
 1. How many processes do we start? #3 Processes
-1. How many records does each process insert? #6 records
+1. How many records does each process insert? #2 records
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 
