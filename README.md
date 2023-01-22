@@ -95,15 +95,15 @@ Do a web search to find helpful videos on anything that seems confusing.
 Python has pretty helpful error messages. 
 When you get an error, read them carefully. 
 
-- What error do you get?
-- Can you tell what line it was executing when it failed?
+- What error do you get? Database is locked
+- Can you tell what line it was executing when it failed? Yes
 
 
 ## Database Is Locked Error
 
 Do a web search on the sqlite3 'database is locked' error.
 
-- What do you learn?
+- What do you learn? #When two inapproopriate operations on a database. 
 - Once a process fails, it crashes the main process and everything stops. 
 
 ## Deadlock
