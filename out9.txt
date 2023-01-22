@@ -1,0 +1,12 @@
+Sent: b'[Hey You, Pikachu!, Ambrella, Nintendo, 1998-12-12, 1830000]' on port 9999.
+Sent: b'[007: The World Is Not Enough, Eurocom, Electronic Arts, 2000-10-17, 1080000]' on port 9999.
+Sent: b'[1080\xc2\xb0 Snowboarding, Nintendo EAD, Nintendo, 1998-02-28, 2030000]' on port 9999.
+Sent: b'[Banjo-Kazooie, Rare, Nintendo, 1998-06-29, 3650000]' on port 9999.
+Sent: b'[Banjo-Tooie, Rare, Nintendo, 2000-11-20, 3000000]' on port 9999.
+Sent: b"[Cruis'n USA, Williams, Nintendo, 1996-12-03, 1720000]" on port 9999.
+Sent: b'[Diddy Kong Racing, Rare, Rare, 1997-11-14, 4880000]' on port 9999.
+Sent: b'[Donkey Kong 64, Rare, Nintendo, 1999-11-22, 5270000]' on port 9999.
+Sent: b'[Excitebike 64, Left Field Productions, Nintendo, 2000-04-30, 2000000]' on port 9999.
+Sent: b'[F-1 World Grand Prix, Paradigm Entertainment, Nintendo, 1998-07-31, 1600000]' on port 9999.
+Sent: b'[F-Zero X, Nintendo EAD, Nintendo, 1998-07-14, 1100000]' on port 9999.
+Sent: b'[Game, Developer(s), Publisher(s), Release date, Sales]' on port 9999.
