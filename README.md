@@ -25,7 +25,7 @@ Read the output. Read the code.
 Try to figure out what's going on. 
 #Ashley Allen
 1. What libraries did we import? #sqlite3, time, multiprocessing, os, datetime, platform, and sys
-1. Where do we set the task_duration?
+1. Where do we set the task_duration? #Line 158
 1. How many functions are defined? #7
 1. What are the function names? 
 1. In general, what does each function do? 
