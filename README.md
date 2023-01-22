@@ -27,8 +27,8 @@ Try to figure out what's going on.
 1. What libraries did we import? #sqlite3, time, multiprocessing, os, datetime, platform, and sys
 1. Where do we set the task_duration? #Line 158
 1. How many functions are defined? #7
-1. What are the function names? 
-1. In general, what does each function do? 
+1. What are the function names? #Create_table, drop_table, insert_pet, rocess_one, process_two, process_three, and recreate_database
+1. In general, what does each function do? #Create tables and insert the correct informtion. 
 1. Where does the execution begin? #The execution begins on 
 1. How many processes do we start? #3 Processes
 1. How many records does each process insert? #2 records
